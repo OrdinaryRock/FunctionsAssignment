@@ -1,0 +1,14 @@
+C:\Users\Mason\source\repos\FunctionsAssignment\bin\Debug\net8.0\FunctionsAssignment.exe
+C:\Users\Mason\source\repos\FunctionsAssignment\bin\Debug\net8.0\FunctionsAssignment.deps.json
+C:\Users\Mason\source\repos\FunctionsAssignment\bin\Debug\net8.0\FunctionsAssignment.runtimeconfig.json
+C:\Users\Mason\source\repos\FunctionsAssignment\bin\Debug\net8.0\FunctionsAssignment.dll
+C:\Users\Mason\source\repos\FunctionsAssignment\bin\Debug\net8.0\FunctionsAssignment.pdb
+C:\Users\Mason\source\repos\FunctionsAssignment\obj\Debug\net8.0\FunctionsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mason\source\repos\FunctionsAssignment\obj\Debug\net8.0\FunctionsAssignment.AssemblyInfoInputs.cache
+C:\Users\Mason\source\repos\FunctionsAssignment\obj\Debug\net8.0\FunctionsAssignment.AssemblyInfo.cs
+C:\Users\Mason\source\repos\FunctionsAssignment\obj\Debug\net8.0\FunctionsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\FunctionsAssignment\obj\Debug\net8.0\FunctionsAssignment.dll
+C:\Users\Mason\source\repos\FunctionsAssignment\obj\Debug\net8.0\refint\FunctionsAssignment.dll
+C:\Users\Mason\source\repos\FunctionsAssignment\obj\Debug\net8.0\FunctionsAssignment.pdb
+C:\Users\Mason\source\repos\FunctionsAssignment\obj\Debug\net8.0\FunctionsAssignment.genruntimeconfig.cache
+C:\Users\Mason\source\repos\FunctionsAssignment\obj\Debug\net8.0\ref\FunctionsAssignment.dll
